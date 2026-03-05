@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-# 🚀 Hello, I'm Susovan | Full-Stack & AI Engineer 
+# 🚀 Hello, I'm Susovan likely suso-van
+
+Full-Stack & AI Engineer 
 
 ### 🎓 Dual-Degree Hustler
 - **B.Tech Computer Science & Engineering** | Techno International New Town (TINT) · *Year II*
@@ -24,7 +26,7 @@ I am a core-focused developer bridging the gap between **Low-Level Systems** and
 
 ## 🛠️ Featured Work (Recent Sprints)
 
-### 🧪 [Venom](https://github.com/sup-vision) & [Greenplate](link-to-repo)
+### 🧪 [Venom](https://github.com/sup-vision) & [Greenplate](https://github.com/GreenPlateByCodeNewbies)
 **Role:** Lead Frontend Architect  
 Built high-performance, responsive interfaces focusing on modern UX/UI. 
 - **Tech:** React.js, Tailwind CSS, Framer Motion.
