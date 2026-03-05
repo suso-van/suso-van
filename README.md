@@ -51,8 +51,8 @@ Built high-performance, responsive interfaces focusing on modern UX/UI.
 ---
 
 ## 📈 GitHub Activity
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[suso-van]&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[suso]&layout=compact&theme=tokyonight)
 
 ---
 
@@ -61,4 +61,6 @@ Built high-performance, responsive interfaces focusing on modern UX/UI.
 - **Discord:** [Insert Username]
 - **Email:** [Insert Email]
 
-*"Under Construction: Building 85+ proofs of competence."*
+*"Under Construction: Building 100+ proofs of competence.
+  Jack of all trades ...master of none ...often...."*
+
