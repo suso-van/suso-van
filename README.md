@@ -1,16 +1,62 @@
 ## Hi there 👋
 
-<!--
-**suso-van/suso-van** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 Hello, I'm Susovan | Full-Stack & AI Engineer 
 
-Here are some ideas to get you started:
+### 🎓 Dual-Degree Hustler
+- **B.Tech Computer Science & Engineering** | Techno International New Town (TINT) · *Year II*
+- **BS in Data Science & Applications** | IIT Madras · *Diploma Level*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a core-focused developer bridging the gap between **Low-Level Systems** and **High-Level AI/GenAI**. Currently grinding for **GATE/NEO** while building a massive ecosystem of 100+ practical projects.
+
+---
+
+## 📊 My Project Ecosystem (The 100-Project Roadmap)
+*Since I don't have a static portfolio site yet, I track my engineering journey here in real-time.*
+
+| Category | Goal | Progress | Focus Area |
+| :--- | :---: | :--- | :--- |
+| **Core Systems** | 20 | ██░░░░░░░░ 10% | OS, Networking, Low-level C/C++ |
+| **DS / ML / GenAI** | 40 | ███░░░░░░░ 25% | LLMs, Neural Networks, Predictive Modeling |
+| **SaaS & Modern Apps** | 20 | ██░░░░░░░░ 10% | Full-stack, Scalability, Practical AI |
+| **Data Analytics** | 5 | █░░░░░░░░░ 05% | Insights, Visualization, IIT-M Projects |
+
+---
+
+## 🛠️ Featured Work (Recent Sprints)
+
+### 🧪 [Venom](link-to-repo) & [Greenplate](link-to-repo)
+**Role:** Lead Frontend Architect  
+Built high-performance, responsive interfaces focusing on modern UX/UI. 
+- **Tech:** React.js, Tailwind CSS, Framer Motion.
+- **Impact:** Optimized for speed and mobile-first accessibility.
+
+---
+
+## 💻 Technical Arsenal
+
+### 🔧 Core & Competitive Programming
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Algorithms](https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-orange?style=for-the-badge)
+- Active on Codeforces/LeetCode/CodeChef.
+- Deep diving into **Computer Organization** and **DBMS** for GATE.
+
+### 🤖 AI / ML / Data Science (IIT Madras Track)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+- Specializing in **Generative AI** and **Predictive Analytics**.
+
+### 🌐 Modern Tech & SaaS
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+## 📈 GitHub Activity
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 How to reach me
+- **LinkedIn:** [Insert Link]
+- **Discord:** [Insert Username]
+- **Email:** [Insert Email]
+
+*"Under Construction: Building 85+ proofs of competence."*
