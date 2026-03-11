@@ -51,8 +51,8 @@ Built high-performance, responsive interfaces focusing on modern UX/UI.
 ---
 
 ## 📈 GitHub Activity
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[suso-van]&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[suso]&layout=compact&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=suso-van&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suso-van&layout=compact&theme=tokyonight)
 
 ---
 
