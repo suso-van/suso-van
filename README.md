@@ -22,6 +22,7 @@ I am a core-focused developer bridging the gap between **Low-Level Systems** and
 | **SaaS & Modern Apps** | 20 | ██░░░░░░░░ 10% | Full-stack, Scalability, Practical AI |
 | **Data Analytics** | 5 | █░░░░░░░░░ 05% | Insights, Visualization, IIT-M Projects |
 
+
 ---
 
 ## 🛠️ Featured Work (Recent Sprints)
