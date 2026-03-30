@@ -58,9 +58,9 @@ Built high-performance, responsive interfaces focusing on modern UX/UI.
 ---
 
 ## 📫 How to reach me
-- **LinkedIn:** [Insert Link]
-- **Discord:** [Insert Username]
-- **Email:** [Insert Email]
+- **LinkedIn:** [www.linkedin.com/in/suso-van]
+- **Discord:** [susovan2004]
+- **Email:** [chatterjeesusovan2004@gmail.com]
 
 *"Under Construction: Building 100+ proofs of competence.
   Jack of all trades ...master of none ...often...."*
