@@ -1,4 +1,5 @@
-[ Hi there 👋](https://github.com/suso-van#----)
+# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=DotGothic16&size=50&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hey,+I'm+Susovan!" alt="Hey, I'm Susovan" /></p>
+
 # 🚀  I'm Susovan likely suso-van
 
 Full-Stack & AI Engineer 
