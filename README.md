@@ -12,7 +12,6 @@ I am a core-focused developer bridging the gap between **Low-Level Systems** and
 
 ---
 
-
 ## 📊 My Project Ecosystem (The 100-Project Roadmap)
 *Since I don't have a static portfolio site yet, I track my engineering journey here in real-time.*
 
