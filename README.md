@@ -27,7 +27,7 @@ I am a core-focused developer bridging the gap between **Low-Level Systems** and
 
 ## 🛠️ Featured Work (Recent Sprints)
 
-### 🧪 [Venom](https://github.com/sup-vision) & [Greenplate](https://github.com/GreenPlateByCodeNewbies)
+### 🧪 [Venom](https://github.com/sup-vision) & [Greenplate](https://github.com/GreenPlateByCodeNewbies) & [Sentinal AI](
 **Role:** Lead Frontend Architect  
 Built high-performance, responsive interfaces focusing on modern UX/UI. 
 - **Tech:** React.js, Tailwind CSS, Framer Motion.
