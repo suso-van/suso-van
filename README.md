@@ -2,7 +2,6 @@
 
 # 🚀  I'm Susovan likely suso-van
 
-
 Full-Stack & AI Engineer 
 
 ### 🎓 Dual-Degree Hustler
