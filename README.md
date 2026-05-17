@@ -10,7 +10,6 @@ Full-Stack & AI Engineer
 
 I am a core-focused developer bridging the gap between **Low-Level Systems** and **High-Level AI/GenAI**. Currently grinding for **GATE/NEO** while building a massive ecosystem of 100+ practical projects.
 
-
 ---
 ## 📊 My Project Ecosystem (The 100-Project Roadmap)
 *Since I don't have a static portfolio site yet, I track my engineering journey here in real-time.*
