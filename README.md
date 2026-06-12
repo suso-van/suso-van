@@ -49,7 +49,7 @@ Built high-performance, responsive interfaces focusing on modern UX/UI.
 ---
 ![suso-van's Stats](https://github-readme-stats.vercel.app/api?username=suso-van&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)   ![suso-van's Streak](https://github-readme-streak-stats.herokuapp.com/?user=suso-van&theme=tokyonight&hide_border=false)
 
-  ![suso-van's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suso-van&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+
 
 ## 📫 How to reach me
 - **LinkedIn:** [www.linkedin.com/in/suso-van]
