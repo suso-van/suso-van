@@ -47,7 +47,7 @@ Built high-performance, responsive interfaces focusing on modern UX/UI.
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
-![suso-van's Stats](https://github-readme-stats.vercel.app/api?username=suso-van&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)   ![suso-van's Streak](https://github-readme-streak-stats.herokuapp.com/?user=suso-van&theme=tokyonight&hide_border=false)
+![suso-van's Stats](https://github-readme-stats.vercel.app/api?username=suso-van&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)    ![suso-van's Streak](https://github-readme-streak-stats.herokuapp.com/?user=suso-van&theme=tokyonight&hide_border=false)
 
 
 
