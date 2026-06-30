@@ -16,7 +16,7 @@ I am a core-focused developer bridging the gap between **Low-Level Systems** and
 | Category | Goal | Progress | Focus Area |
 | :--- | :---: | :--- | :--- |
 | **Core Systems** | 20 | ██░░░░░░░░ 10% | OS, Networking, Low-level C/C++ |
-| **DS / ML / GenAI** | 40 | ███░░░░░░░ 25% | LLMs, Neural Networks, Predictive Modeling |
+| **DS / ML / GenAI** | 40 | █████░░░ 50% | LLMs, Neural Networks, Predictive Modeling |
 | **SaaS & Modern Apps** | 20 | ██░░░░░░░░ 10% | Full-stack, Scalability, Practical AI |
 | **Data Analytics** | 5 | █░░░░░░░░░ 05% | Insights, Visualization, IIT-M Projects |
 
