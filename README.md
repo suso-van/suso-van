@@ -6,6 +6,7 @@ Full-Stack & AI Engineer & An Open source explorer
 - **B.Tech Computer Science & Engineering** | Techno International New Town (TINT) · *Year II*
 - **BS in Data Science & Applications** | IIT Madras · *Diploma Level*
 
+
 I am a core-focused developer bridging the gap between **Low-Level Systems** and **High-Level AI/GenAI**. Currently grinding for **GATE/NEO** while building a massive ecosystem of 100+ practical projects.
 ---
 ## 📊 My Project Ecosystem (The 100-Project Roadmap)
