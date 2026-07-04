@@ -2,6 +2,7 @@
 
 # 🚀  I'm Susovan likely suso-van
 Full-Stack & AI Engineer & An Open source explorer
+
 ### 🎓 Dual-Degree Hustler
 - **B.Tech Computer Science & Engineering** | Techno International New Town (TINT) · *Year II*
 - **BS in Data Science & Applications** | IIT Madras · *Diploma Level*
