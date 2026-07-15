@@ -20,7 +20,6 @@ I am a core-focused developer bridging the gap between **Low-Level Systems** and
 | **Data Analytics** | 5 | █░░░░░░░░░ 05% | Insights, Visualization, IIT-M Projects |
 
 ---
-
 ## 🛠️ Featured Work (Recent Sprints)
 
 ### 🧪 [Venom](https://github.com/sup-vision) & [Greenplate](https://github.com/GreenPlateByCodeNewbies) & [Sentinel AI](https://github.com/https://github.com/SentinelAIbyCodeNewbies)
