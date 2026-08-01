@@ -4,7 +4,7 @@
 Full-Stack & AI Engineer & An Open source explorer
 
 ### 🎓 Dual-Degree Hustler
-- **B.Tech Computer Science & Engineering** | Techno International New Town (TINT) · *Year II*
+- **B.Tech Computer Science & Engineering** | Techno International New Town (TINT) · *Year III*
 - **BS in Data Science & Applications** | IIT Madras · *Diploma Level*
 ---
 I am a core-focused developer bridging the gap between **Low-Level Systems** and **High-Level AI/GenAI**. Currently grinding for **GATE/NEO** while building a massive ecosystem of 100+ practical projects.
