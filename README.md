@@ -5,7 +5,7 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · suso-van</sub></p>
 <h1>susovan</h1>
-<h2>Frontend or full-stack engineer</h2>
+<h2>AIML or full-stack engineer</h2>
 <p>jack of.....</p>
 <p><strong>● Building and sharing work in public</strong></p>
 <p><sub>Based in kolkata · Building at Anviksh</sub></p>
