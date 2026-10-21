@@ -1,59 +1,115 @@
-# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=DotGothic16&size=50&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hey,+I'm+Susovan!" alt="Hey, I'm Susovan" /></p>
+<div align="center">
 
-# 🚀  I'm Susovan likely suso-van
-Full-Stack & AI/Ml Engineer & An Open source explorer
-----
-### 🎓 Dual-Degree Hustler
-- **B.Tech Computer Science & Engineering** | Techno International New Town (TINT) · *Year III*
-- **BS in Data Science & Applications** | IIT Madras · *Diploma Level*
----
-I am a core-focused developer bridging the gap between **Low-Level Systems** and **High-Level AI/GenAI**. Currently grinding for **GATE/NEO** while building a massive ecosystem of 100+ practical projects.
----
-## 📊 My Project Ecosystem (The 100-Project Roadmap)
-*Since I don't have a static portfolio site yet, I track my engineering journey here in real-time.*
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · suso-van</sub></p>
+<h1>susovan</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>jack of.....</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in kolkata · Building at Anviksh</sub></p>
+<p><a href="https://github.com/suso-van">GitHub</a> &nbsp;·&nbsp; <a href="https://susovan-chatterjee-portfolio.ai.studio">Website</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/228173533?u=b338293a0f87a60177639a608bf4826a9bf29a54&amp;v=4" width="180" alt="susovan GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-| Category | Goal | Progress | Focus Area |
-| :--- | :---: | :--- | :--- |
-| **Core Systems** | 20 | ██░░░░░░░░ 10% | OS, Networking, Low-level C/C++ |
-| **DS / ML / GenAI** | 40 | █████░░░ 50% | LLMs, Neural Networks, Predictive Modeling |
-| **SaaS & Modern Apps** | 20 | ██░░░░░░░░ 10% | Full-stack, Scalability, Practical AI |
-| **Data Analytics** | 5 | █░░░░░░░░░ 05% | Insights, Visualization, IIT-M Projects |
+<h2>What teams can evaluate quickly</h2>
 
----
-## 🛠️ Featured Work (Recent Sprints)
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · HTML · Jupyter Notebook · Python</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>53 repositories · 12 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>1,046 contributions · 203 active days</p></td>
+</tr>
+</table>
 
-### 🧪 [Venom](https://github.com/sup-vision) & [Greenplate](https://github.com/GreenPlateByCodeNewbies) & [Sentinel AI](https://github.com/https://github.com/SentinelAIbyCodeNewbies)
-**Role:** Lead Frontend Architect  
-Built high-performance, responsive interfaces focusing on modern UX/UI. 
-- **Tech:** React.js, Tailwind CSS, Framer Motion.
-- **Impact:** Optimized for speed and mobile-first accessibility.
+<p><sub>jack of.....</sub></p>
 
----
+<h2>Proof at a glance</h2>
 
-## 💻 Technical Arsenal
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>53</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>12</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>1,046</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>49</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
-### 🔧 Core & Competitive Programming
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Algorithms](https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-orange?style=for-the-badge)
-- Active on Codeforces/LeetCode/CodeChef.
-- Deep diving into **Computer Organization** and **DBMS** for GATE.
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=suso-van&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228173533%3Fu%3Db338293a0f87a60177639a608bf4826a9bf29a54%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=suso-van&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228173533%3Fu%3Db338293a0f87a60177639a608bf4826a9bf29a54%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="susovan GitHub proof metrics" />
+</picture>
+</p>
 
-### 🤖 AI / ML / Data Science (IIT Madras Track)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-- Specializing in **Generative AI** and **Predictive Analytics**.
+<h2>Selected work</h2>
 
-### 🌐 Modern Tech & SaaS
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=suso-van&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228173533%3Fu%3Db338293a0f87a60177639a608bf4826a9bf29a54%26v%3D4&repos=suso-van%2FContrib%2Csuso-van%2FPython-DS-Used-Car-Price-Analytics%2Csuso-van%2FAxon%2Csuso-van%2FNeura&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=suso-van&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228173533%3Fu%3Db338293a0f87a60177639a608bf4826a9bf29a54%26v%3D4&repos=suso-van%2FContrib%2Csuso-van%2FPython-DS-Used-Car-Price-Analytics%2Csuso-van%2FAxon%2Csuso-van%2FNeura&v=recruiter-projects-1&mode=dark" width="100%" alt="susovan selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/suso-van/Contrib">Contrib</a></h3>
+<p>Open source for Open source</p>
+<p><sub>Python · ⭐ 4 · 🍴 2</sub></p>
+<p><a href="https://github.com/suso-van/Contrib">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
----
-![suso-van's Stats](https://github-readme-stats.vercel.app/api?username=suso-van&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)    ![suso-van's Streak](https://github-readme-streak-stats.herokuapp.com/?user=suso-van&theme=tokyonight&hide_border=false)
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/suso-van/Python-DS-Used-Car-Price-Analytics">Python-DS-Used-Car-Price-Analytics</a></h3><p>An optimized, end-to-end data engineering and business intelligence pipeline</p><p><sub>Python · ⭐ 1</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/suso-van/Axon">Axon</a></h3><p>A selected public project.</p><p><sub>Open source · ⭐ 1</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/suso-van/Neura">Neura</a></h3><p>A selected public project.</p><p><sub>Open source · ⭐ 1</sub></p></td>
+</tr>
+</table>
 
+<h2>Technical toolkit</h2>
 
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=suso-van&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228173533%3Fu%3Db338293a0f87a60177639a608bf4826a9bf29a54%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=suso-van&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228173533%3Fu%3Db338293a0f87a60177639a608bf4826a9bf29a54%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="susovan technology stack" />
+</picture>
+</p>
 
-## 📫 How to reach me
-- **LinkedIn:** [www.linkedin.com/in/suso-van]
-- **Discord:** [susovan2004]
-- **Email:** [chatterjeesusovan2004@gmail.com]
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>48% of public code</sub></td>
+<td width="20%" align="center"><strong>Jupyter Notebook</strong><br /><sub>25% of public code</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>10% of public code</sub></td>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>9% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>5% of public code</sub></td>
+</tr>
+</table>
 
-*"Under Construction: Building 100+ proofs of competence.
-  Jack of all trades ...master of none ...often...."*
+<h2>Consistency signal</h2>
 
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=suso-van&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228173533%3Fu%3Db338293a0f87a60177639a608bf4826a9bf29a54%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=suso-van&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228173533%3Fu%3Db338293a0f87a60177639a608bf4826a9bf29a54%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="susovan contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/suso-van">GitHub</a><br /><a href="https://susovan-chatterjee-portfolio.ai.studio">Website</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>susovan · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
