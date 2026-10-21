@@ -5,7 +5,7 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · suso-van</sub></p>
 <h1>susovan</h1>
-<h2>AIML or full-stack engineer</h2>
+<h2>AIML or Full-stack engineer</h2>
 <p>jack of.....</p>
 <p><strong>● Building and sharing work in public</strong></p>
 <p><sub>Based in kolkata · Building at Anviksh</sub></p>
@@ -22,7 +22,7 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · HTML · Jupyter Notebook · Python</p></td>
+<td width="33%" valign="top"><h3>Role fit</h3><p>AI/ML or Full-stack engineer · HTML · Jupyter Notebook · Python</p></td>
 <td width="33%" valign="top"><h3>Public proof</h3><p>53 repositories · 12 stars</p></td>
 <td width="33%" valign="top"><h3>Momentum</h3><p>1,046 contributions · 203 active days</p></td>
 </tr>
